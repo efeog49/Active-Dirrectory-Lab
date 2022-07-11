@@ -19,7 +19,7 @@ System Information:  <br/>
 <br />
  
 Check Virtualization Firmware Enabled (Command Line):  <br/>
-<img src="https://i.imgur.com/55rLyYB.jpg" height="80%" width="80%" alt="check virtualization firmware enabled cmd"/>
+<img src="https://i.imgur.com/fMlHXv8.jpg" height="80%" width="80%" alt="check virtualization firmware enabled cmd"/>
 <br />
  
 Compare SHA256 checksums to verify Oracle VirtualBox download integrity:  <br/>
@@ -50,53 +50,68 @@ Enable Virtualization in UEFI(Recovery):  <br/>
 <img src="https://i.imgur.com/aaSI9pF.jpg" height="80%" width="80%" alt="System Security"/>
 <br />
  
+ Check Virtualization Firmware Enabled (Command Line):  <br/>
+<img src="https://i.imgur.com/55rLyYB.jpg" height="80%" width="80%" alt="check virtualization firmware enabled cmd"/>
+<br />
+ 
+ System Information(Virtualization Enabled):  <br/>
+<img src="https://i.imgur.com/IeYUsqN.jpg" height="80%" width="80%" alt="System Information"/>
+<br />
+ 
   Oracle VM VirtualBox Installed(Complete):  <br/>
 <img src="https://i.imgur.com/ODg9ioX.jpg" height="80%" width="80%" alt="VM VirtualBox installation Complete"/>
 <br />
  
-   Enable Virtualization in UEFI(BIOS KEY F10) :  <br/>
-<img src="https://i.imgur.com/Q6jwTr6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Supported Host Operating Systems:  <br/>
+<img src="https://i.imgur.com/H7oZnVC.jpg" height="80%" width="80%" alt="Supported Host Operating System"/>
 <br />
  
-   Enable Virtualization in UEFI(BIOS KEY F10) :  <br/>
-<img src="https://i.imgur.com/Q6jwTr6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   Install Windows Server 2019 Datacenter(Desktop Experience) :  <br/>
+<img src="https://i.imgur.com/xzhrIoJ.jpg" height="80%" width="80%" alt="Windows Setup"/>
 <br />
  
+   Install Windows Server 2019 Datacenter(Administrator Password) :  <br/>
+<img src="https://i.imgur.com/0jXjeOr.jpg" height="80%" width="80%" alt="Customize settings"/>
+<br />
  
-<h2>Hardware Requirements and Supporting Operating System  </h2>
+    Install Windows Server 2019 Datacenter(Complete) :  <br/>
+<img src="https://i.imgur.com/wlMkplX.jpg" height="80%" width="80%" alt="Customize settings"/>
+<br />
+ 
+<h2>To be continued....  </h2>
 
-<h2>Environments Used </h2>
+<h2>Exchange </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Exchange</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exchange: <br/>
+<img src="https://i.imgur.com/62Tgagfd4WL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exchange:  <br/>
+<img src="https://i.imgur.com/tcTffdssyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exchange: <br/>
+<img src="https://i.imgur.com/nCIadfsbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exchange:  <br/>
+<img src="https://i.imgur.com/cdFHsdffBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL95125Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JL95se125Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71ya122M2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exchange:  <br/>
+<img src="https://i.imgur.com/K71ya1s22M2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Exchange:  <br/>
 <img src="https://i.imgur.com/AeZkv87FQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
